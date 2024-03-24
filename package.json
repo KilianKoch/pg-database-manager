@@ -1,0 +1,14 @@
+{
+  "name": "pg-database-manager",
+  "version": "1.0.0",
+  "description": "A streamlined toolkit for PostgreSQL database operations, offering connection management, CRUD operations, and schema handling with ease.",
+  "main": "PGHandler.js",
+  "scripts": {
+    "test": "node PGHander.js"
+  },
+  "author": "Kilian Koch",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
