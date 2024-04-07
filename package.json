@@ -1,6 +1,6 @@
 {
   "name": "pg-database-manager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A streamlined toolkit for PostgreSQL database operations, offering connection management, CRUD operations, and schema handling with ease.",
   "main": "PGHandler.js",
   "scripts": {
